@@ -12,3 +12,4 @@ C:\Users\iKripto\Desktop\Faculdade\Curso .NET Alura\PrimeiroProjeto\PrimeiroProj
 C:\Users\iKripto\Desktop\Faculdade\Curso .NET Alura\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net10.0\PrimeiroProjeto.pdb
 C:\Users\iKripto\Desktop\Faculdade\Curso .NET Alura\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net10.0\PrimeiroProjeto.genruntimeconfig.cache
 C:\Users\iKripto\Desktop\Faculdade\Curso .NET Alura\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net10.0\ref\PrimeiroProjeto.dll
+C:\Users\iKripto\Desktop\Faculdade\Curso .NET Alura\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net10.0\PrimeiroProjeto.sourcelink.json
