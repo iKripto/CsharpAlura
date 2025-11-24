@@ -3,7 +3,7 @@
 
 Dictionary<string, List<int>> bandasRegistradas = new Dictionary <string, List<int>>();
 bandasRegistradas.Add("Linkin Park", new List<int> {10, 8, 6});
-bandasRegistradas.Add("Beatles", new List<int> { 10, 7, 4, 2 });
+bandasRegistradas.Add("Beatles", new List<int> {10, 7, 4, 2});
 
 void ExibirLogo()
 {
