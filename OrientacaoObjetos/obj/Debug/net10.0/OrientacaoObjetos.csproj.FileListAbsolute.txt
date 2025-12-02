@@ -1,5 +1,0 @@
-C:\Users\iKripto\Desktop\Faculdade\Curso .NET Alura\OrientacaoObjetos\obj\Debug\net10.0\OrientacaoObjetos.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\iKripto\Desktop\Faculdade\Curso .NET Alura\OrientacaoObjetos\obj\Debug\net10.0\OrientacaoObjetos.AssemblyInfoInputs.cache
-C:\Users\iKripto\Desktop\Faculdade\Curso .NET Alura\OrientacaoObjetos\obj\Debug\net10.0\OrientacaoObjetos.AssemblyInfo.cs
-C:\Users\iKripto\Desktop\Faculdade\Curso .NET Alura\OrientacaoObjetos\obj\Debug\net10.0\OrientacaoObjetos.csproj.CoreCompileInputs.cache
-C:\Users\iKripto\Desktop\Faculdade\Curso .NET Alura\OrientacaoObjetos\obj\Debug\net10.0\OrientacaoObjetos.sourcelink.json

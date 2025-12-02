@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\PrimeiroProjeto"
+    "\\ScreenSound",
+    "\\ScreenSound\\Models"
   ],
-  "SelectedNode": "\\PrimeiroProjeto\\Program.cs",
+  "SelectedNode": "\\ScreenSound\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

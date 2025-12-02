@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DesafioOrientacaoObjetos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a73ceb68927b2ddf0e43659bfc71d4c752372a9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b238257c382cbce02e654dc02682d8adc7cb1665")]
 [assembly: System.Reflection.AssemblyProductAttribute("DesafioOrientacaoObjetos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DesafioOrientacaoObjetos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
