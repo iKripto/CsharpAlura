@@ -2,7 +2,7 @@
 
 using DominandoPoo.Models;
 
-class Album
+internal class Album
 {
     private List<Musica> musicas = new List<Musica>();
 
